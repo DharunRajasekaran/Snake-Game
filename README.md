@@ -25,8 +25,11 @@ Running the Game
 Clone the repository:
 
 bash
+
 Copy code
-git clone https://github.com/yourusername/snake-game-python.git
+git clone https://github.com/DharunRajasekaran/snake-game-python.git
+
+
 Navigate into the project folder:
 
 bash
@@ -49,7 +52,9 @@ Customization
 Feel free to modify the code to:
 
 Change the snake or food color
+
 Adjust the game speed
+
 Add more features like levels, special food items, or a high score tracker
 Project Structure
 bash
